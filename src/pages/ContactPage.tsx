@@ -83,7 +83,7 @@ const ContactPage: React.FC = () => {
                   <div>
                     <h3 className="font-medium">{t.phoneNumber}</h3>
                     <p className="text-gray-600 dark:text-gray-400">
-                      +1 (252) 655-2297<br />+63 90695-05219<br />
+                      +1 (252) 592-1863<br />+63 90695-05219<br />
                      WhatsApp:+1 (808) 460-3426
                     </p>
                   </div>
